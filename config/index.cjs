@@ -8,7 +8,7 @@
 const USER_CONFIG = {
 
  
-  APP_ID: 'wx545d1e530808a6b3',
+  APP_ID: 'OlgjZZN87MUvMbbaavA5_NGYi2zR-xYkjgbJ_ejAZI0',
 
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '176c17cc4ebc119b77c95312b33ac383',
@@ -57,7 +57,7 @@ const USER_CONFIG = {
     {
       name: ' ',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'gh_0164fc042309 ',
+      id: 'ouc_p6UE_pHeyPwc-HuIJWjYKziY ',
     }
   ],
 
