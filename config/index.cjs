@@ -8,7 +8,7 @@
 const USER_CONFIG = {
 
  
-  APP_ID: 'OlgjZZN87MUvMbbaavA5_NGYi2zR-xYkjgbJ_ejAZI0',
+  APP_ID: 'wx545d1e530808a6b3',
 
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '176c17cc4ebc119b77c95312b33ac383',
@@ -19,21 +19,21 @@ const USER_CONFIG = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: '杨yangyang',
+      name: '9',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: '66',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '176c17cc4ebc119b77c95312b33ac383',
+      useTemplateId: '8',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '08-01',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*7-4', name: '杨yangyang', year: '2003', date: '08-01',
+          type: '*7-4', name: '9', year: '2003', date: '08-01',
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '08-01', name: '杨yangyang', year: '2003', date: '08-01',
+          type: '08-01', name: '9', year: '2003', date: '08-01',
         },
         {
           type: '无', name: '无', year: '无', date: '00-00',
@@ -55,9 +55,9 @@ const USER_CONFIG = {
 
   CALLBACK_USERS: [
     {
-      name: ' ',
+      name: '9',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'ouc_p6UE_pHeyPwc-HuIJWjYKziY ',
+      id: 'ouc_p6cPHpsbcATlrd_XyUW6Mj_k',
     }
   ],
 
